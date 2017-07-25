@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cvrvmxlcvrt23/friend-finder666"
+    "url": "https://github.com/cvrvmxlcvrt23/friend-finder-cuhz"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cvrvmxlcvrt23/friend-finder666/issues"
+    "url": "https://github.com/cvrvmxlcvrt23/friend-finder-cuhz/issues"
   },
-  "homepage": "https://github.com/cvrvmxlcvrt23/friend-finder666#readme",
+  "homepage": "https://github.com/cvrvmxlcvrt23/friend-finder-cuhz#readme",
   "dependencies": {
     "body-parser": "^1.17.2"
   }
